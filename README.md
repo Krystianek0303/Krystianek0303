@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Krystianek0303
 - 👀 I’m interested in web building, frontend and sometimes backend.
-- 🌱 I’m currently learning Symfony 5, React, Bootstrap and TypeScript
+- 🌱 I’m currently working at network admin
